@@ -17,14 +17,14 @@ function App() {
     <Layout className="mainLayout">
       <Header>
         <AppHeader />
-     </Header>
-     <Content>
-       <AppHome />
-     </Content>
-     <Footer>
-       <AppFooter />
-     </Footer>
-  </Layout>
+      </Header>
+      <Content>
+        <AppHome />
+      </Content>
+      <Footer>
+        <AppFooter />
+      </Footer>
+    </Layout>
   );
 }
 
